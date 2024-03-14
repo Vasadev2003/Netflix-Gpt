@@ -1,4 +1,3 @@
 # NetFlix Gpt
- - setup the create react app
- -installed the tailwind css
- 
+  - Finish the setup with create react app
+   -installed the tailwind css
